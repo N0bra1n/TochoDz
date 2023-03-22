@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TochnoDz1</string>
+    <string name="name1">Cool Cat</string>
+    <string name="disc1">He is cool</string>
+
+    <string name="name2">Cool Cat too</string>
+    <string name="disc2">He is cool</string>
+
+    <string name="name3">Very Cool Cat</string>
+    <string name="disc3">He is the coolest cat there</string>
+</resources>
